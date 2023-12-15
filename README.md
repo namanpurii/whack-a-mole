@@ -26,7 +26,7 @@ To run the project locally, follow these steps:
 
 ## Learning Experience
 
-My first time working with Tailwind CSS, so please dont mind the bad UI. For the most part it required me to constantly refer to its documentation. Although, having experience in native CSS, inline styling, and previous knowledge of tools like Sass helped a TON. Other learning outcomes were tackling the asynchronous nature of the `useState` hook and learning about cleanup functions in React. 
+My first time working with Tailwind CSS. For the most part it required me to constantly refer to its documentation. Although, having experience in native CSS, inline styling, and previous knowledge of tools like Sass helped a TON. Other learning outcomes were tackling the asynchronous nature of the `useState` hook and learning more about cleanup functions in React. 
 
 ## Production Build
 

@@ -1,7 +1,7 @@
 # Whack-a-Mole Game
 
 Welcome to the Whack-a-Mole game repository! This project is a basic implementation of the classic Whack-a-Mole game built using ReactJS and styled with Tailwind CSS. The project was bootstrapped using Vitejs.
-Although this is an intial commit. I would like to make the user experience better with the build
+Although this is an intial commit. I would like to make the user experience better with some more features
 
 ## Getting Started
 
